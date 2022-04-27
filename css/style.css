@@ -149,7 +149,6 @@ main {
     height: 360px;
     margin: 0 30px;
     font-family: "Inter", sans-serif;
-    
 }
 .main-currency-tables .currency-tables--tittle, .main-comission-tables .comission-tables--tittle {
     margin-bottom: 15px;
@@ -177,7 +176,7 @@ main {
     font-size: 1.6rem;
     font-weight: 500;
     line-height: 1.9rem;
-    color: var(--gray);
+    color: #757575;
     background-color: var(--just-white);
 }
 .currency-table--container .table__top-left, .comission-table--container .table__top-left {
